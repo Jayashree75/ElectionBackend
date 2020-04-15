@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\bin\Debug\netstandard2.0\CommonLayer.dll
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.deps.json
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.dll
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\bin\Debug\netstandard2.0\RepositoryLayer.pdb
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\bin\Debug\netstandard2.0\CommonLayer.pdb
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.dll
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.pdb
+C:\Users\Hp\source\repos\ElectionManagement\RepositoryLayer\obj\Debug\netstandard2.0\RepositoryLayer.csproj.CoreCompileInputs.cache

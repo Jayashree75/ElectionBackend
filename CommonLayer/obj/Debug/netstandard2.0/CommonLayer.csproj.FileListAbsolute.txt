@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\bin\Debug\netstandard2.0\CommonLayer.deps.json
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\bin\Debug\netstandard2.0\CommonLayer.dll
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\bin\Debug\netstandard2.0\CommonLayer.pdb
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.dll
+C:\Users\Hp\source\repos\ElectionManagement\CommonLayer\obj\Debug\netstandard2.0\CommonLayer.pdb
